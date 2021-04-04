@@ -8,8 +8,8 @@ namespace OS_lab1
 {
     public enum StatusEnum
     {
-        Pause = 1,
+        Pause,
 
-        Stop = 2
+        Stop
     }
 }

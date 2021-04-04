@@ -8,3 +8,13 @@ C:\Users\user\source\repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.csproj.GenerateReso
 C:\Users\user\source\repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.exe
 C:\Users\user\source\repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.pdb
+E:\OS_repos\OS_lab1\OS_lab1\bin\Debug\OS_lab1.exe.config
+E:\OS_repos\OS_lab1\OS_lab1\bin\Debug\OS_lab1.exe
+E:\OS_repos\OS_lab1\OS_lab1\bin\Debug\OS_lab1.pdb
+E:\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.csprojAssemblyReference.cache
+E:\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.FormPlanner.resources
+E:\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.Properties.Resources.resources
+E:\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.csproj.GenerateResource.cache
+E:\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.csproj.CoreCompileInputs.cache
+E:\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.exe
+E:\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.pdb

@@ -18,8 +18,7 @@ namespace OS_lab1
         }
         public void Generate()
         {
-           
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < rnd.Next(3, 5); i++)
             {
                 CreateProcesses();
             }

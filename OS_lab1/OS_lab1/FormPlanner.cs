@@ -18,36 +18,34 @@ namespace OS_lab1
         public Graphics gr;
 
         private int height; // высота 1 линии разметки
-        private int countBefore; 
+        private int countBefore;
+        public List<Thread> Threads;
 
         private Pen[] color = {
             new Pen(Color.Aqua),
             new Pen(Color.Red),
             new Pen(Color.Magenta),
-            new Pen(Color.Pink),
-            new Pen(Color.Purple),
-            new Pen(Color.Magenta),
+            new Pen(Color.Olive),
+            new Pen(Color.RosyBrown),
             new Pen(Color.Lime),
             new Pen(Color.Salmon),
             new Pen(Color.Indigo),
             new Pen(Color.Gold)
         };
-       
-        public List<Thread> Threads;
-
+      
         private void Initial()
         {
             Threads = new List<Thread>();
             bmp = new Bitmap(pictureBox.Width, pictureBox.Height);
             gr = Graphics.FromImage(bmp);
             DrawMarking(gr);
+            countBefore = 0;
         }
 
         public FormPlanner()
         {
             InitializeComponent();
             height = pictureBox.Height / 6;
-            countBefore = 0;
             Initial();
         }
 
@@ -70,7 +68,7 @@ namespace OS_lab1
 
             foreach (var thread in Threads)
             {
-                int h = thread.TID * 18 + tempHeight; // регулируем высоту переменной
+                int h = thread.TID * 18 + tempHeight; 
         
                 if (thread.Status == StatusEnum.Stop)
                 {
