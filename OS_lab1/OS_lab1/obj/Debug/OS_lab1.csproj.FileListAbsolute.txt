@@ -18,3 +18,13 @@ E:\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.csproj.GenerateResource.cache
 E:\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.csproj.CoreCompileInputs.cache
 E:\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.exe
 E:\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.pdb
+C:\Users\user\source\repos\OS_repos\OS_lab1\OS_lab1\bin\Debug\OS_lab1.exe.config
+C:\Users\user\source\repos\OS_repos\OS_lab1\OS_lab1\bin\Debug\OS_lab1.exe
+C:\Users\user\source\repos\OS_repos\OS_lab1\OS_lab1\bin\Debug\OS_lab1.pdb
+C:\Users\user\source\repos\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.FormPlanner.resources
+C:\Users\user\source\repos\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.Properties.Resources.resources
+C:\Users\user\source\repos\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.exe
+C:\Users\user\source\repos\OS_repos\OS_lab1\OS_lab1\obj\Debug\OS_lab1.pdb

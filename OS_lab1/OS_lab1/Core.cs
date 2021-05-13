@@ -26,7 +26,7 @@ namespace OS_lab1
         }
         public void CreateProcesses()
         {
-            processes.Add(new Process(processes.Count(), rnd.Next(1,5), formPlanner));
+            processes.Add(new Process(processes.Count(), rnd.Next(2,6), formPlanner));
         }
         public void toPlane()
         {

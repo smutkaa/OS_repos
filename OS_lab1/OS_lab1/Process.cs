@@ -8,7 +8,6 @@ namespace OS_lab1
 {
     class Process
     {
-        Random rnd = new Random(); 
 
         List<int> ExecutionTimeForThread = new List<int>();
         public int PID { get; private set; }
@@ -22,15 +21,12 @@ namespace OS_lab1
             Threads = new List<Thread>();
             formPlanner = form;
             Threads = new List<Thread>();
-            ProcessExecutionTime = 250;
-
+            ProcessExecutionTime = 300;
             int tmp = 0;
-            int contrastTime = ProcessExecutionTime / 15; 
-            int arrangeTime = ProcessExecutionTime / ThreadCount;
 
             for (int i = 0; i < ThreadCount - 1; ++i)
             {
-                int time = rnd.Next(arrangeTime - contrastTime, arrangeTime + contrastTime);
+                int time = ProcessExecutionTime / ThreadCount;
                 ExecutionTimeForThread.Add(time);
                 tmp += time;
             }
